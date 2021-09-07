@@ -1,0 +1,12 @@
+2019-11-04 14:56:37,019 - root - ERROR - hello!
+2019-11-04 14:56:37,019 - root - DEBUG - This is a debug message
+2019-11-04 14:56:37,019 - root - INFO - this is an info message
+2019-11-04 14:56:37,019 - root - WARNING - tbllalfhldfhd, warning.
+2019-11-04 14:56:48,807 - root - ERROR - hello!
+2019-11-04 14:56:48,807 - root - DEBUG - This is a debug message
+2019-11-04 14:56:48,807 - root - INFO - this is an info message
+2019-11-04 14:56:48,807 - root - WARNING - tbllalfhldfhd, warning.
+2019-11-04 14:57:00,150 - root - ERROR - hello!
+2019-11-04 14:57:00,150 - root - DEBUG - This is a debug message
+2019-11-04 14:57:00,150 - root - INFO - this is an info message
+2019-11-04 14:57:00,150 - root - WARNING - tbllalfhldfhd, warning.
